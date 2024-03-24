@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Data Analytics, Engineering.
 - 🌱 I’m currently learning: Python, Machine Learning and more.
 - 💞️ I’m looking to collaborate on DS/ML projects.
-- 📫 How to reach me: leave a comment I guess 😄
+- 📫 How to reach me:  DM me on LinkedIn or leave a comment here.
 - ⚡ Fun fact: I can clap with one hand.
 
 <!---
